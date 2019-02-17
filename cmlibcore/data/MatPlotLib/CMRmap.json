@@ -1,0 +1,13 @@
+{
+    "name": "CMRmap",
+    "pretty_name": "CMRmap",
+    "file_name": "CMRmap.csv",
+    "category": "Other",
+    "recommended": false,
+    "perceptually_uniform": false,
+    "black_white_friendly": false,
+    "color_blind_friendly": false,
+    "isoluminant": false,
+    "notes": "",
+    "tags": []
+}

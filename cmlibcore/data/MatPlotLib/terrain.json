@@ -1,0 +1,15 @@
+{
+    "name": "terrain",
+    "pretty_name": "Terrain",
+    "file_name": "terrain.csv",
+    "category": "Other",
+    "recommended": false,
+    "perceptually_uniform": false,
+    "black_white_friendly": false,
+    "color_blind_friendly": false,
+    "isoluminant": false,
+    "notes": "",
+    "tags": [
+        "geo"
+    ]
+}

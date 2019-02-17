@@ -1,0 +1,13 @@
+{
+    "name": "bone",
+    "pretty_name": "Bone",
+    "file_name": "bone.csv",
+    "category": "Sequential",
+    "recommended": false,
+    "perceptually_uniform": false,
+    "black_white_friendly": false,
+    "color_blind_friendly": false,
+    "isoluminant": false,
+    "notes": "",
+    "tags": []
+}
